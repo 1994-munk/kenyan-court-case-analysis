@@ -1,0 +1,21 @@
+Case ID,Case Type,Outcome,Duration (Days),Filing Year
+case_001,Criminal,Conviction,120,2020-01-01
+case_002,Civil,Dismissed,45,2021-01-01
+case_003,Criminal,Conviction,150,2021-01-01
+case_004,Family,Settled,200,2020-01-01
+case_005,Civil,Dismissed,75,2022-01-01
+case_006,Criminal,Conviction,180,2021-01-01
+case_007,Family,Settled,90,2022-01-01
+case_008,Civil,Dismissed,50,2020-01-01
+case_009,Criminal,Conviction,130,2020-01-01
+case_010,Family,Settled,60,2021-01-01
+case_011,Criminal,Conviction,110,2022-01-01
+case_012,Civil,Dismissed,30,2021-01-01
+case_013,Family,Settled,140,2022-01-01
+case_014,Criminal,Conviction,160,2021-01-01
+case_015,Civil,Dismissed,200,2020-01-01
+case_016,Criminal,Conviction,100,2022-01-01
+case_017,Family,Settled,50,2020-01-01
+case_018,Civil,Dismissed,65,2021-01-01
+case_019,Criminal,Conviction,175,2020-01-01
+case_020,Family,Settled,130,2022-01-01
